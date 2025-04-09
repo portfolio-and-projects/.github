@@ -24,7 +24,7 @@ Some things that guide me:
 
 ✨ **Check out my repositories** to see what I’m currently building and experimenting with.
 
-🗺️ Or peek at my **[project boards](https://github.com/orgs/YOUR-ORG/projects)** for a higher-level look at what I’m planning, exploring, and dreaming up.
+🗺️ Or peek at my **[project boards](https://github.com/orgs/portfolio-and-projects/projects)** for a higher-level look at what I’m planning, exploring, and dreaming up.
 
 You’ll find:
 - Portfolio projects
